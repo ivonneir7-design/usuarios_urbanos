@@ -1,13 +1,4 @@
-"ID_Usuario,
-Ciudad,
-Estrato_Socioeconomico,
-Tamaño_Hogar,
-Nivel_Educativo,
-Frecuencia_Reciclaje_Semanal,
-Kilogramos_Reciclados_Semana,
-Acceso_Punto_Ecologico,
-Puntaje_Conciencia_Ambiental,
-Participacion_Programa_Municipal"
+"ID_Usuario,Ciudad,Estrato_Socioeconomico,TamaÃ±o_Hogar,Nivel_Educativo,Frecuencia_Reciclaje_Semanal,Kilogramos_Reciclados_Semana,Acceso_Punto_Ecologico,Puntaje_Conciencia_Ambiental,Participacion_Programa_Municipal"
 1,Cali,2,4,Tecnico,4,9.48,1,8,1
 2,Bucaramanga,2,1,Primaria,0,1.96,1,6,0
 3,Bogota,4,1,Universitario,2,9.83,0,8,0
@@ -108,3 +99,4 @@ Participacion_Programa_Municipal"
 98,Bucaramanga,6,4,Universitario,0,14.02,0,2,0
 99,Medellin,3,1,Tecnico,3,1.46,1,2,0
 100,Bogota,2,4,Primaria,4,16.44,1,2,1
+
